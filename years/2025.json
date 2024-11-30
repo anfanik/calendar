@@ -1,0 +1,136 @@
+{
+  "exceptions": {
+    "january": [
+      {
+        "day": 1,
+        "isDayOff": true,
+        "reason": "Новогодние каникулы"
+      },
+      {
+        "day": 2,
+        "isDayOff": true,
+        "reason": "Новогодние каникулы"
+      },
+      {
+        "day": 3,
+        "isDayOff": true,
+        "reason": "Новогодние каникулы"
+      },
+      {
+        "day": 4,
+        "isDayOff": true,
+        "reason": "Новогодние каникулы"
+      },
+      {
+        "day": 5,
+        "isDayOff": true,
+        "reason": "Новогодние каникулы"
+      },
+      {
+        "day": 6,
+        "isDayOff": true,
+        "reason": "Новогодние каникулы"
+      },
+      {
+        "day": 7,
+        "isDayOff": true,
+        "reason": "Рождество Христово"
+      },
+      {
+        "day": 8,
+        "isDayOff": true,
+        "reason": "Новогодние каникулы"
+      }
+    ]
+  },
+  "february": [
+    {
+      "day": 23,
+      "isDayOff": true,
+      "reason": "День защитника Отечества"
+    }
+  ],
+  "march": [
+    {
+      "day": 7,
+      "isShortDay": true,
+      "reason": "День перед Международным женским днём"
+    },
+    {
+      "day": 8,
+      "isDayOff": true,
+      "reason": "Международный женский день"
+    }
+  ],
+  "april": [
+    {
+      "day": 30,
+      "isShortDay": true,
+      "reason": "День перед Праздником Весны и Труда"
+    }
+  ],
+  "may": [
+    {
+      "day": 1,
+      "isDayOff": true,
+      "reason": "Праздник Весны и Труда"
+    },
+    {
+      "day": 2,
+      "isDayOff": true,
+      "reason": "Перенос с субботы 4 января на пятницу 2 мая"
+    },
+    {
+      "day": 8,
+      "isDayOff": true,
+      "reason": "Перенос с воскресенья 23 февраля на четверг 8 мая"
+    },
+    {
+      "day": 9,
+      "isDayOff": true,
+      "reason": "День Победы"
+    }
+  ],
+  "june": [
+    {
+      "day": 11,
+      "isShortDay": true,
+      "reason": "День перед Днём России"
+    },
+    {
+      "day": 12,
+      "isDayOff": true,
+      "reason": "День России"
+    },
+    {
+      "day": 13,
+      "isDayOff": true,
+      "reason": "Перенос с субботы 8 марта на пятницу 13 июня"
+    }
+  ],
+  "november": [
+    {
+      "day": 1,
+      "isWorkDay": true,
+      "isShortDay": true,
+      "reason": "Перенос с субботы 1 ноября на понедельник 3 ноября"
+    },
+    {
+      "day": 3,
+      "isDayOff": true,
+      "reason": "Перенос с субботы 1 ноября на понедельник 3 ноября"
+    },
+    {
+      "day": 4,
+      "isDayOff": true,
+      "reason": "День народного единства"
+    }
+  ],
+  "december": [
+    {
+      "day": 31,
+      "isDayOff": true,
+      "reason": "Перенос с воскресенья 5 января на среду 31 декабря"
+    }
+  ]
+}
